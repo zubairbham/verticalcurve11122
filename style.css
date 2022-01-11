@@ -1,0 +1,13 @@
+select {
+    cursor: pointer;
+} 
+#inputs-div {
+    text-align: center;
+    margin-top: 40PX;
+}  
+.mb-3 {
+    display: inline-block;
+}
+.btn {
+    display: block;
+}
